@@ -1,1 +1,1 @@
-This is Mack's forst git project! (Not really)
+This is Mack's first git project! (Not really)
